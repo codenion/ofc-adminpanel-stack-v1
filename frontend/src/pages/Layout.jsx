@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import { FaAngleRight, FaHome } from 'react-icons/fa';
+import { FaHome } from 'react-icons/fa';
 
 const Layout = ({children}) => {
   return (
