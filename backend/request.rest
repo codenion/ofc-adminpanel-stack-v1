@@ -126,5 +126,5 @@ Content-Type: application/json
 ###
 
 // Delete a Product
-DELETE http://localhost:5000/products/b9461593-b49c-4b64-b8c4-a4846ef8aaf6
+DELETE http://localhost:5000/products/b1bb230e-b2c0-44cf-9930-23d6029c7228
 Content-Type: application/json
